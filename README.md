@@ -1,7 +1,7 @@
 # Arco
 Repositorio con todas las practicacs de arco hasta el momento.
 
-------------------------------------------------------------COMANDOS BASICOS ------------------------------------------------------------------------------------------------------    
+------------------------------------------------------------COMANDOS BASICOS ------------------------------------------------------------------------------------    
 * git init                                     Oye Git, voy a usar estos documentos contigo ¿vale?
 * git add                                      <file> Pasa los docs a staging area 
 * git add .                                    Pasa todos los archivos
@@ -19,7 +19,7 @@ Repositorio con todas las practicacs de arco hasta el momento.
 
 *  git config -- global user.email "email"     Para configurar email del usuario
 *  git config -- global user.name "nombre"     Para configurar nombre del usuario
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------              
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------            
 
 vin Es el editor de código de git desde la consola, ahí escribes un comentario para la nueva versión que estés versionando (si no te deja escribir presiona a letra i). Cuando termines presiona esc y luego :wq (write & quit)pasa salir.
 
