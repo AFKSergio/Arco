@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> 
-
+//prueba jejej
 cudaError_t addWithCuda(int* c, const int* a, const int* b, unsigned int size);
 
 
